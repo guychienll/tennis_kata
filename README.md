@@ -1,10 +1,7 @@
 <div class="content">
-      <h1>
-        Tennis
-        
+      <h1> Tennis 
       </h1>
-
-      <p><strong>About this Kata</strong></p>
+<p><strong>About this Kata</strong></p>
 
 <p>This Kata is about implementing a simple tennis game. I came up with it
 while thinking about Wii tennis, where they have simplified tennis, so
@@ -48,11 +45,9 @@ from Trondheim Coding Dojo</li>
 Example solution in .NET</li>
 <li><a href="https://github.com/lroal/Roald/tree/master/src/Roald.Katas">https://github.com/lroal/Roald/tree/master/src/Roald.Katas</a> Example
 solution in .NET with state transition tree</li>
-<li><a href="https://github.com/keithn/vsvimguide/blob/master/Examples/Kata.Tennis/TennisScoring.cs">https://github.com/keithn/vsvimguide/blob/master/Examples/Kata.Tennis/TennisScoring.cs</a>
-Simple one file example in C# .NET Core</li>
+<li><a href="https://github.com/keithn/vsvimguide/blob/master/Examples/Kata.Tennis/TennisScoring.cs">https://github.com/keithn/vsvimguide/blob/master/Examples/Kata.Tennis/TennisScoring.cs</a> Simple one file example in C# .NET Core</li>
 </ul>
-
-      <div class="article-footer">
+<div class="article-footer">
         <a class="button" href="https://gitlab.com/codingdojo-org/codingdojo.org/-/edit/master/content/kata/Tennis.md ">Edit</a>
       </div>
     </div>
